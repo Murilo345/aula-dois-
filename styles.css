@@ -1,0 +1,55 @@
+body{
+    background-color:#848383;   
+
+}
+
+
+
+h1{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #115fdd;
+    
+}
+header img{
+    width: 6vw;
+    margin-right: 10px;
+    padding: 5px;
+
+
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+aside{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text h2, .text p{
+    padding: 10px;
+    margin: 0px 10px 0px 10px;/*top rignt bottom left */
+    color: white;
+        
+    font-family: 'Acme', sans-serif;
+
+}
+
+
+
+section h2{
+    color: white;
+}
+.por{
+    font-size: l
+    
+}
